@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version xx my change xx
+* Ruby version xx my second change xx
 
 * System dependencies
 
